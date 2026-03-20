@@ -1,4 +1,4 @@
-#🎵 Digital Music Store Analysis (SQL Project)
+# 🎵 Digital Music Store Analysis (SQL Project)
 
 📌 Project Overview
 
