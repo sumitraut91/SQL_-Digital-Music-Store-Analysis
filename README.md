@@ -36,9 +36,11 @@ Invoice – Purchase transactions
 
 Invoice Line – Track-level purchase details
 
+Media Type
+
 playlist_track
 
-playlist
+Playlist
 
 Track – Song information
 
