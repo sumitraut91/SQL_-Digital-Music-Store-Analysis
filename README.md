@@ -1,4 +1,4 @@
-🎵 Digital Music Store Analysis (SQL Project)
+## 🎵 Digital Music Store Analysis (SQL Project)
 
 📌 Project Overview
 
@@ -16,6 +16,7 @@ Perform data analysis using joins, aggregations, and subqueries
 
 Generate business insights from raw data
 
+
 🛠️ Tools & Technologies
 
 Database: PostgreSQL
@@ -23,6 +24,7 @@ Database: PostgreSQL
 Interface: pgAdmin 4
 
 Language: SQL
+
 
 📂 Dataset Description
 
@@ -48,23 +50,24 @@ Genre – Music categories
 
 Employee – Staff details
 
+
 ❓ Business Questions Solved
 
-Who is the senior-most employee based on job title?
+1. Who is the senior-most employee based on job title?
 
-Which countries have the most invoices?
+2. Which countries have the most invoices?
 
-What are the top 3 invoice totals?
+3. What are the top 3 invoice totals?
 
-Which city generates the highest revenue?
+4. Which city generates the highest revenue?
 
-Who is the best customer (highest spender)?
+5. Who is the best customer (highest spender)?
 
-List all Rock music listeners (email, name, genre)
+6. List all Rock music listeners (email, name, genre)
 
-Top 10 artists with the most Rock tracks
+7. Top 10 artists with the most Rock tracks
 
-Tracks longer than the average song length
+8. Tracks longer than the average song length
 
 
 <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/d8b57185-f168-4eb0-8d77-519013179de4" />
