@@ -1,4 +1,5 @@
 🎵 Digital Music Store Analysis (SQL Project)
+
 📌 Project Overview
 
 This project focuses on analyzing an online digital music store database using PostgreSQL. 
@@ -35,8 +36,7 @@ Invoice Line – Track-level purchase details
 
 playlist_track
 
-playlist<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/d8b57185-f168-4eb0-8d77-519013179de4" />
-
+playlist
 
 Track – Song information
 
@@ -65,3 +65,7 @@ List all Rock music listeners (email, name, genre)
 Top 10 artists with the most Rock tracks
 
 Tracks longer than the average song length
+
+
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/d8b57185-f168-4eb0-8d77-519013179de4" />
+
